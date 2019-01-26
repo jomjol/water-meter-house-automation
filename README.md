@@ -12,3 +12,4 @@ ESP8266 software for an water meter measurement based on an ArduCAM, ESP8266 and
 - Resistor 470 Ohm
 
 ### Wiring
+<img src="./images/wiring_sketch.png" width="800">
