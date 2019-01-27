@@ -4,7 +4,8 @@ ESP8266 software for an water meter measurement based on an ArduCAM, ESP8266 and
 ## Functionality
 
 This is an HTTP-Webserver, sending an image of an ArduCAM (OV2640) on request and additionally switching an illumination.
-The code is implmented in the Arduino IDE and is directly related to an selfmade water meter for house automation. For the housing etc. see also (THINGIVERSE)
+The code is implmented in the Arduino IDE and is directly related to an selfmade water meter for house automation. 
+For the housing etc. see  [https://www.thingiverse.com/thing:3238162](https://www.thingiverse.com/thing:3238162)
 
 ### Commands
 - http://ID-ADRESS/lighton   -   Switching the LED-lights on
